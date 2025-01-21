@@ -2,3 +2,8 @@ ejecuta este comando en windows si no usas spring
 recueda ejecurtarlo fuera de la carpeta
 
 java -cp .;lib/json-20210307.jar TuArchivoJava
+
+
+NOTAS: 
+1)Cambiar el número 20210307 al correspondiente a la versión jar que se tenga.
+2)Cmbiar el nombre de TuArchivoJava al archivo java que vaya a usar el jar.
